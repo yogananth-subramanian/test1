@@ -1,0 +1,11 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-11
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: group11
+  system: audio-playback

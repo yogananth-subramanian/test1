@@ -1,0 +1,110 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-1
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: group1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-2
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: group2
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-3
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: group3
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-4
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: group4
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-5
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: group5
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-6
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: group6
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-7
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: group7
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-8
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: group8
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-9
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: group9
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-10
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: group10
+  system: audio-playback
